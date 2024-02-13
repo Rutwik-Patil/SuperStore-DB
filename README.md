@@ -1,4 +1,5 @@
 Uncover actionable insights from Superstore data with an interactive Power BI dashboard!
+
 This project empowers business stakeholders to analyze sales performance across key dimensions like Payment Mode, Region, Segment, Category.
 
 Features:
